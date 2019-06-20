@@ -37,7 +37,7 @@
     "passport-steam": "^1.0.10",
     "public-ip": "^2.4.0",
     "request": "^2.81.0",
-    "sequelize": "^4.28.6",
+    "sequelize": ">=5.3.0",
     "serve-favicon": "~2.4.5",
     "simple-rcon": "^0.3.1",
     "socket.io": "^2.0.4",
